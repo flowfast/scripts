@@ -2,7 +2,7 @@
 
 |script|description|
 |--|--|
-|create-issue.js| Creates issue based on
+|create-issue.js| Creates issue based on Kaiten's card data|
 
 Each script is executable
 
